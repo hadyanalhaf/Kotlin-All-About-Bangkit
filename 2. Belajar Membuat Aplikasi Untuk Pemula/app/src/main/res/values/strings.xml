@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">BorneoApps</string>
+
+    <string name="trip_name">Nama Tempat</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+
+    <string name="aboutname">Hadyan AlHafizh</string>
+    <string name="aboutemail">hadyan.alhaf@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Alun Alun Kapuas</item>
+        <item>Danau Labuan Cermin</item>
+        <item>Danau Sentarum</item>
+        <item>Danau Ubur-Ubur</item>
+        <item>Kepulauan Dermawan</item>
+        <item>Masjid Raya Mujahidin</item>
+        <item>Masjid Raya Muhtadin</item>
+        <item>Pulau Maratua</item>
+        <item>Saint Joseph Catherdal</item>
+        <item>Taman Nasional Tanjung Puting</item>
+        <item>Tugu Khatulistiwa</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Taman Kapuas berlokasi di Kota Pontianak Provinsi Kalimantan Barat. Lebih tepatnya berada di tengah kota yang sangat mudah diakses dari manapun. Untuk sampai di lokasi, bisa ditempuh dengan waktu sekitar 15 menit dari pusat kota, sedangkan dari Bandara Supadio Pontianak adalah sekitar 30 menit. Jika Anda menggunakan kendaraan pribadi hanya tinggal mengikuti rambu lalu lintas yang telah disediakan.</item>
+        <item>Bukan pantai bukan pula pegunungan, tempat ini merupakan danau yang memiliki keindahan yang membuat berdecak kagum siapa saja yang mengunjunginya. Danau Labuan Cermin terletak di Desa Labuan Kelambu di Kecamatan Biduk-biduk Kalimantan Timur yang bisa ditempuh dengan perjalanan darat sekitar 6 sampai 7 jam dari ibukota Kabupaten Berau, Tanjung Redeb, Kalimantan Timur. Meski perjalanan cukup jauh, rasa lelah akan segera terobati begitu melihat keindahan alam yang ada di Labuan Cermin.</item>
+        <item>Terletak di Kabupaten Kapuas Hulu, taman ini terletak di atas Sungai Kapuas tektonik yang memiliki cekungan sekitar 700 kilometer ke arah hulu dari delta. Cekungan ini adalah dataran banjir yang luas, yang terdiri dari sekitar 20 danau musiman, hutan rawa air tawar dan hutan rawa gambut yang masyarakat setempat menyebutnya Lebak Lebung (dataran banjir).</item>
+        <item>Tempat ini didominasi oleh perairan berbentuk danau dengan luasan danau 400 Hektar (Ha). Sumber air danau berasal dari air laut yang masuk melalui celah-celah batu karst, kemudian membentuk sebuah kubangan besar. Disekeliling danau terdapat tanaman mangrove sehingga menyebabkan air berwarna kehijauan dan rasa airnya payau. Jenis danau tersebut adalah Danau Air Asin. </item>
+        <item>Asal usul nama empat pulau paling terkenal di Kepulauan Derawan berangkat dari cerita rakyat yang dikisahkan warga lokal dari waktu ke waktu. Jadi di zaman dulu terdapat dua keluarga yang tinggal di pulau berbeda ingin melangsungkan acara pernikahan untuk kedua anak mereka di Pulau Panjang. Keluarga laki-laki dan keluarga perempuan kemudian sama-sama menuju Pulau Panjang menggunakan kapal layar hingga akhirnya kedua keluarga bertemu di satu jalur.</item>
+        <item>Masjid Raya Mujahidin merupakan masjid terbesar di Provinsi Kalimantan Barat. Awal pendirian masjid ini memiliki sejarah panjang dan berliku. Namun setelah menempuh waktu panjang, akhirnya pendirian masjid ini pun rampung dan diresmikan oleh Presiden Indonesia saat itu Soeharto pada tahun 1978.</item>
+        <item>Masjid Raya Muhtadin secara keseluruhan bentuk masjid tergolong unik dengan penempatan kubah yang berbentuk bulat pipih di atas bangunan berbentuk geometris kotak persegi panjang. Di sekeliling bangunan terdapat empat menara kecil, masing-masing setinggi 21 meter dan satu menara utama setinggi 45 meter.</item>
+        <item>Pulau Maratua ini termasuk salah satu Pulau terluar Indonesia yang berbatasan dengan wilayah Malaysia lho. Setelah dari Pulau Maratua Sobat Pesona bisa ke Pulau Sangalaki buat melihat biota laut yang lebih unik dan berbeda. Di Sangalaki inilah Sobat Pesona bisa menemukan lagon dangkal yang ditumbuhi karang, ikan pari manta, juga penyu hijau dan penyu sisik. Titik menyelam yang terkenal di pulau ini di antaranya ada Coral Gardens, Channel Entrance, Turtle Town, Sandy Ridge, Manta Run, dan Manta Parade.</item>
+        <item>Suatu tempat ibadah selalu menjadikannya tujuan utama saat mengunjungi suatu tempat, seperti halnya dengan Gereja Katolik Saint Joseph Cathedral. Mengunjunginya suatu tempat ibadah layaknya menjadi suatu hal yang harus dilakukan. Entah itu bagi yang menganut agama Islam, Kristen, Khatolik, Buddha hingga Hindu. Baik itu dimana pun dan kapan pun.</item>
+        <item>Tanjung Puting Taman Nasional di ketinggian 0-100 meter di atas permukaan laut memiliki beberapa jenis ekosistem hutan hujan tropis, dataran rendah, hutan tanah kering, hutan rawa air tawar, hutan bakau, hutan pantai, dan hutan sekunder. Taman nasional ini juga rumah bagi spesies yang dilindungi endemik orangutan, bekantan, monyet merah, beruang, rusa, dan kucing liar.</item>
+        <item>Tugu Khatulistiwa terletak di Jalan Khatulistiwa, Kecamatan Pontianak Utara, Kalimantan Barat. Menuju tugu ini dapat ditempuh sekitar 30 menit dari pusat Kota Pontianak. Tugu ini dibangun pada tahun 1928 dengan menggunakan ilmu astronomi. Pengukuran yang dilakukan oleh para ahli geografi saat itu tanpa menggunakan alat-alat yang canggih seperti satelit maupun GPS.</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Pontianak, Kalimantan Barat</item>
+        <item>Kabupaten Berau, Kalimantan Timur</item>
+        <item>Kapuas Hulu, Kalimantan Barat</item>
+        <item>Pulau Kakaban, Kalimantan Timur</item>
+        <item>Kabupaten Berau, Kalimantan Timur</item>
+        <item>Pontianak, Kalimantan Barat</item>
+        <item>Banjarmasin, Kalimantan Selatan</item>
+        <item>Kabupaten Berau, Kalimantan Timur</item>
+        <item>Pontianak, Kalimantan Barat</item>
+        <item>Semenanjung Barat, Kalimantan Tengah</item>
+        <item>Pontianak, Kalimantan Barat</item>
+    </string-array>
+
+
+    <integer-array name="data_photo">
+        <item>@drawable/alun_alun</item>
+        <item>@drawable/danau_cermin</item>
+        <item>@drawable/danau_sentarum</item>
+        <item>@drawable/danau_uburubur</item>
+        <item>@drawable/dermawan</item>
+        <item>@drawable/masjid_mujahidin</item>
+        <item>@drawable/masjid_raya</item>
+        <item>@drawable/pulau_maratua</item>
+        <item>@drawable/saint_joseph</item>
+        <item>@drawable/tanjung_puting</item>
+        <item>@drawable/tugu_khatulistiwa</item>
+    </integer-array>
+</resources>

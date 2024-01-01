@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="tabfollowers">Followers</string>
+    <string name="tabfollowing">Following</string>
+    <string name="username">Username</string>
+    <string name="fullname">Fullname</string>
+    <string name="dummynumber">123</string>
+    <string name="Followers">Followers</string>
+    <string name="Following">Following</string>
+    <string name="Repository">Repository</string>
+    <string name="Searchbarhint">Mau Nyari Siapa?</string>
+    <string name="darkmode">DarkMode</string>
+</resources>

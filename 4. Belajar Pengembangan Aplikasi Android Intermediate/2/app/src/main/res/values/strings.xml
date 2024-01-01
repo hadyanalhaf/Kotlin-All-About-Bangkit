@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Sign In</string>
+    <string name="message_welcome_page">Mau Berkeluh kesah? Disini Aja. Kamu Bisa Berkeluh Kesah Disini Sekarang Juga!</string>
+    <string name="title_welcome_page">Welcome to Sambats Apps!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk upgrade skill?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="atau">Atau</string>
+
+    <!--  Login And Register Component  -->
+    <string name="reghintusername">Username</string>
+    <string name="reghintemail">Email</string>
+    <string name="reghintpassword">Password</string>
+    <string name="required">required</string>
+    <string name="passvalid">Password Must At Least Has 8 Character</string>
+
+    <!--  Posting Component  -->
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="empty_image_warning">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <!--  Maps Component  -->
+    <string name="normal_type">Normal Style</string>
+    <string name="retro">Retro Style</string>
+</resources>
